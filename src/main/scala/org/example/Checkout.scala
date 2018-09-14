@@ -32,3 +32,10 @@ class Checkout {
   }
 
 }
+
+object Checkout extends App {
+
+  val checkout = new Checkout
+  println("Total cost: " + checkout.getTotal(args.toList))
+  
+}
