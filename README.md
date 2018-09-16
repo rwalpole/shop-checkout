@@ -10,7 +10,7 @@ run apple apple orange apple
 ~~~~
 If all is well this will return a total cost of £2.05
 
-Discounts of two for the price of one are applied to Apples and three for the price of two to oranges.
+Discounts of two for the price of one are applied to apples and three for the price of two to oranges.
 
 ~~~~
 run apple apple
